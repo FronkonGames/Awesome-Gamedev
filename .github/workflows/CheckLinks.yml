@@ -1,0 +1,21 @@
+name: Check Links
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    types: [opened, synchronize]
+  workflow_dispatch:
+
+jobs:
+  checking-links:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 2.6
+    - name: Install awesome_bot
+      run: gem install awesome_bot
+    - name: Run awesome_bot
+      run: awesome_bot README.md --allow-redirect --allow-dupe --allow-timeout --set-timeout 120 --skip-save-results --allow 429
