@@ -42,7 +42,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Videogames logos ([link](http://gamelogos.tumblr.com/)).
 * Blender to Unity workflow ([link](http://zakjr.com/blog/blender-to-unity-workflow-part-1/)).
 * No bullshit pixel art tutorial ([link](http://pixelartus.com/post/85312310886/retronator-no-bullshit-pixel-art-tutorial)).
-* The 10 commandments of Color Theory ([link](http://thumbnails.visually.netdna-cdn.com/the-10-commandments-of-color-theory_537dc47b1c394.jpg)).
 * How to Pixel Art ([youtube](https://www.youtube.com/playlist?list=PLG0tvJ_jRDIVqRSjelh_uyuZpREN-T4ZF)).
 * 60 of the finest tutorials and resources about Pixel Art ([link](https://www.reddit.com/r/gamedev/comments/2hdsdi/everything_you_need_to_know_about_pixel_art_60_of)).
 * Draw a cartoon monster character in Photoshop ([link](http://design.tutsplus.com/tutorials/draw-a-cartoon-monster-character-in-photoshop--psd-18136)).
@@ -475,7 +474,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Modern OpenGL 3.0+ ([youtube](https://www.youtube.com/playlist?list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8)).
 * The math of idle games ([link](http://developers.kongregate.com/blog/the-math-of-idle-games-part-i)).
 * Game engine using STD C++ 11 ([youtube](https://www.youtube.com/watch?v=8AjRD6mU96s)).
-* Why video game coders don't use TDD, and why it matters ([link](http://chrismdp.com/2015/03/why-games-coders-dont-use-tdd-and-why-it-matters/)).
 * A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub ([link](https://github.com/leereilly/games)).
 * A collection of awesome .NET core libraries, tools, frameworks and software ([link](https://github.com/thangchung/awesome-dotnet-core)).
 * A list of modern C++11/14/17 features ([link](https://github.com/AnthonyCalandra/modern-cpp-features)).
@@ -526,7 +524,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * A comprehensive guide to serverless architecture ([link](https://www.simform.com/serverless-architecture-guide/)).
 * Game developer’s guide to graphical projections (I/II) ([link](https://medium.com/retronator-magazine/game-developers-guide-to-graphical-projections-with-video-game-examples-part-1-introduction-aa3d051c137d)).
 * Using neural networks and machine learning to power up a 2D roguelike in Unity ([link](https://blogs.unity3d.com/es/2017/12/11/using-machine-learning-agents-in-a-real-game-a-beginners-guide/)).
-* Make a RPG and learn C# ([pdf](https://wpuploads.azureedge.net/2016/08/LearnCSharpSimpleRPG_2ndEd.pdf)).
 * Profiling, measurement and analysis ([link](https://engineering.riotgames.com/news/profiling-measurement-and-analysis)).
 * A rendering abstraction which describes a frame as a directed acyclic graph of render tasks and resources ([link](https://github.com/acdemiralp/fg)).
 * The 15 C++11 features you must really use ([link](http://cppdepend.com/blog/?p=319)).
@@ -548,8 +545,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Dot product, rulers, and bouncing balls ([link](https://www.allenchou.net/2020/01/dot-product-projection-reflection/)).
 * Blender for non-artists ([link](https://github.com/jasonswearingen/godot-csharp-tech/tree/dev/docs/articles-tutorials/blender-for-non-artists)).
 * Wave Function Collapse tips and tricks ([link](https://www.boristhebrave.com/2020/02/08/wave-function-collapse-tips-and-tricks/)).
-* Create a first-person shooter in Godot ([link](https://godottutorials.pro/fps-godot-tutorial/)).
-* The 25 most recommended programming books of all-time ([link](https://www.daolf.com/posts/best-programming-books/)).
 * Netcode fundamentals for fast-paced multiplayer games ([youtube](https://youtu.be/6WmK9qa2KIg)).
 * One million sprites, more than 120fps ([link](https://coffeebraingames.wordpress.com/2020/04/05/one-million-sprites-more-than-120fps-dots-not-required/)).
 * A gentle introduction to AI ([link](https://medium.com/mighty-bear-games/a-gentle-introduction-to-ai-8d7efaea12cc)).
@@ -1212,7 +1207,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * A collection of tools for developers who have little to no artistic talen ([link](https://nodesign.dev/)).
 * A curated library of free music for content creators ([link](https://cchound.com)).
 * GDC vault explorer ([link](https://yankooliveira.com/gdcvault/index.html)).
-* All music CC BY ([link](https://www.audiak.com/)).
 * A collection of bitmap fonts pulled from various demo scene archives over the years ([link](https://github.com/ianhan/BitmapFonts)).
 * A list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers ([link](https://free-for.dev/)).
 * 4500+ free high resolution textures (JPEG, not PBR) ([link](https://texturesforfree.com/)).
@@ -1221,7 +1215,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Siggraph 2021 links ([link](https://blog.selfshadow.com/2021/08/18/siggraph-2021-links/)).
 * 10 great websites for game developers ([link](https://void1gaming.medium.com/10-great-websites-for-game-developers-4d2f7af6475b)).
 * Lux Materium, free CC0 photogrammetry assets ([link](https://www.luxmaterium.com/)).
-* All music on this website can be downloaded and used for any of your projects ([link](https://getyourfreemusichere.com/)).
 * All 'Game AI Pro' chapters, free to download ([link](http://www.gameaipro.com/)).
 * Tons of free 16-bit style pixel-art assets ([link](http://ansimuz.com/site/)).
 * Over 2,000 free 3d humanoid animations ([link](https://rancidmilk.itch.io/free-character-animations)).
@@ -1294,7 +1287,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * The first month of marketing my new iOS/Android game, Planet Lander ([link](https://www.reddit.com/r/gamedev/comments/3dn4g2/the_first_month_of_marketing_my_new_iosandroid/)).
 * How to make $1m without making your players cross ([youtube](https://www.youtube.com/watch?v=oRFXrheDP8s)).
 * The holy trinity of monetisation ([link](https://ongamesndata.wordpress.com/2015/07/28/the-holy-trinity-of-monetisation/)).
-* 6 ways for indie game devs to innovate their way into the top chart ([link](http://www.chupamobile.com/blog/2015/09/17/6-ways-for-indie-game-devs-to-innovate-their-way-into-the-top-chart/)).
 * Marketing ideas for your indie game ([link](http://www.gamasutra.com/blogs/SergiuCraitoiu/20160119/263694/Marketing_ideas_for_your_indie_game.php)).
 * Understanding your game through data, analytics for indies 101 ([link](https://medium.com/steam-spy/understanding-your-game-through-data-8b09ca93ec11#.ljmc44pid)).
 * The 2016 definitive guide to mobile analytic platforms ([link](https://www.reddit.com/r/gamedev/comments/42wkmu/the_2016_definitive_guide_to_mobile_analytic/)).
@@ -1386,7 +1378,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * A comprehensive free-to-play game model ([link](http://mobiledevmemo.com/free-to-play-spreadsheet-revenue-model/)).
 * Analyzing apps worldwide ([link](http://blog.appannie.com/)).
 * Cardinal Quest: How I made $60k from My indie game ([link](http://gamedevelopment.tutsplus.com/articles/cardinal-quest-how-i-made-60000-from-my-indie-game--gamedev-12073)).
-* Discover all you need to know on games, eSports & mobile ([link](https://newzoo.com/)).
 * 24000 videogames releases since 1975 ([link](http://imgur.com/Eo9kJ)).
 * Proun sales data revealed ([link](http://joostdevblog.blogspot.com.es/2011/10/proun-is-big-success-pay-what-you-want.html)).
 * 15 Days of Waking Mars at $2.99 ([link](http://blog.tigerstylegames.com/post/23104925410/15-days-of-waking-mars-at-299)).
@@ -1476,7 +1467,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * A game lawyer ([link](http://www.strebecklaw.com/)).
 * Why you should always register the trademark on your Kickstarter game ([link](http://www.gamasutra.com/blogs/StephenMcArthur/20160504/271940/Why_You_Should_Always_Register_the_Trademark_on_your_Kickstarter_Game.php)).
 * Practical law 101 for indie developers: Not scary edition ([youtube](https://www.youtube.com/watch?v=8eAW-7Js7NA)).
-* Negotiations for game aevs: a practical guide ([link](https://indiewatch.net/2016/09/06/negotiations-for-game-devs-a-practical-guide-part-1/)).
 * Practical IP law for indie developers 301: Plain scary edition ([youtube](https://youtu.be/ePQcAjuiSEo)).
 * Top 5 ways to protect your intellectual property ([link](https://homagames.com/top-5-ways-to-protect-your-intellectual-property/)).
 
@@ -1522,9 +1512,8 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * IP licensing for games ([link](https://gamedevunchained.com/2019/02/04/ip-licensing-for-games-with-jay-powell/)).
 * Cherry pick playlist for programmers ([link](https://sudo.fm/)).
 * Global game developer salaries, 2020 ([link](https://docs.google.com/spreadsheets/d/1cM3_iBGF8IXZfLS5GKvC0-JWh0tS6TVYJJ-HxlguinA)).
-* Great books for aspiring Game Developers ([link](https://80.lv/articles/80-level-ratings-great-books-for-aspiring-game-developers/])).
+* Great books for aspiring Game Developers ([link](https://80.lv/articles/80-level-ratings-great-books-for-aspiring-game-developers/)).
 * How to reach the gaming industry ([link](https://medium.com/@carrillouriel/how-i-got-into-the-game-industry-3b74fccf7a)).
-* Game devs share their top 10 tips for Staying Healthy ([link](https://knightideas.co.uk/game-devs-share-their-top-10-tips-for-staying-healthy/)).
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
