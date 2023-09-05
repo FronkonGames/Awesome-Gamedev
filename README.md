@@ -1162,7 +1162,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * How do you make a game that was supposed to be small, but ended up being huge ([youtube](https://www.youtube.com/watch?v=DcxRUc092WY)).
 * Free 19-pack texture bundle ([link](https://store.3dtotal.com/collections/ebooks/products/total-textures-19-pack-download-bundle-50-off-download-only)).
 * Base meshes, updated weekly, 100% free, CC0 license ([link](https://thebasemesh.com/)).
-* ACM Digital Library Archive is open access with 50 years of published records ([link](https://dl.acm.org/)).
 * Playlist of CC BY 3.0 tracks ([youtube](https://www.youtube.com/watch?v=Ef0VrcrOatg&list=PLsVfn9YIFmNC3SL_FgAe6k4_is4stMOh2)).
 * Find everything you need for Game Development ([link](https://gamedevnexus.com/)).
 * 30+ websites for FREE 3D models download and animations ([youtube](https://www.youtube.com/watch?v=i_lDgeAG7bw)).
