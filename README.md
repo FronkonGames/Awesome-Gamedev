@@ -90,7 +90,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Environment design: Style over function ([link](https://80.lv/articles/environment-design-style-over-function/)).
 * Blender - Low Poly Scenario ([youtube](https://www.youtube.com/watch?v=yrXrRLs1vec&list=PLpPd_BKEUoYi1ha6w28SUq7iYa1NC719E)).
 * Stylized normal mapping ([link](http://www.alkemi-games.com/a-game-of-tricks-iv-stylized-normal-mapping/)).
-* Color combinations from designers ([link](http://colorsupplyyy.com/app/)).
 * 6 examples of UI design that every game developer should study ([link](http://www.gamasutra.com/view/news/289637/6_examples_of_UI_design_that_every_game_developer_should_study.php)).
 * Learn how to prototype levels in Blender ([youtube](https://www.youtube.com/watch?v=2Y2WwvOwn4w)).
 * An introduction to procedural animations ([link](http://www.alanzucconi.com/2017/04/17/procedural-animations/)).
@@ -811,7 +810,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Serialization best practices ([link](http://forum.unity3d.com/threads/serialization-best-practices-megapost.155352)).
 * Best practices for physically based content creation ([youtube](https://www.youtube.com/watch?v=OeEYEUCa4tI)).
 * Modern 2D techniques ([youtube](https://www.youtube.com/watch?v=bUGbXThraVM)).
-* Unity 3D best practices ([link](https://x-team.com/2014/03/unity-3d-optimisation-and-best-practices-part-1/)).
 * Unity 5 - Intro to Lighting and Rendering ([link](http://unity3d.com/es/learn/tutorials/modules/beginner/graphics/lighting-and-rendering)).
 * Unity best practices ([link](http://www.glenstevens.ca/unity3d-best-practices/)).
 * Infinite terrain generation in Unity ([link](http://code-phi.com/infinite-terrain-generation-in-unity-3d/)).
@@ -992,7 +990,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * How to customize performance metrics in the Unity Profiler ([youtube](https://www.youtube.com/watch?v=ixEk6EWrL6Y)).
 * Empowering workflows for Non-Coders in Unity Editor ([youtube](https://www.youtube.com/watch?v=CUOMyPotJE8)).
 * MMO Game Development with Unity (1 / 200) ([youtube](https://www.youtube.com/playlist?list=PLS9G7A6kaaHOOXLVNoc7cEE6ytk9tFJql)).
-* A lightweight yet feature-rich non-Rigidbody first-person shooter character controller ([link](https://github.com/NecroMarX/UnityAdvancedFPSCharacterController)).
 * The power of Command Buffers in Unity ([youtube](https://www.youtube.com/watch?v=LrAOkMRlvjo)).
 * Making a multiplayer matchmaker & turn-based game with Firebase ([youtube](https://www.youtube.com/watch?v=pjOlGwxYNXs)).
 * How to get started with Unity Multiplayer ([youtuve](https://www.youtube.com/watch?v=eymqAMmnqPg)).
@@ -1487,7 +1484,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Top 100 countries by game revenues ([link](http://www.newzoo.com/free/rankings/top-100-countries-by-game-revenues/)).
 * How to succeed in the west ([link](http://www.slideshare.net/DavidPChiu/how-to-succeed-in-the-west-stats-best-practices-and-common-mistakes-for-f2p-core-games-kongregate-f2p-monetization-presentation-chinajoy-wmgc-2014)).
 * 9 tips on localizing audio ([link](http://www.gamedev.net/page/resources/_/creative/music-and-sound/9-tips-on-localizing-audio-r4337)).
-* Find voice actors on any budget, from free, all the way up to Union talent ([link](http://www.tamararyanvo.com/news/2017/3/1/how-to-find-voice-actors-for-my-game)).
 * Get free games translating other games ([link](https://www.localizor.io/)).
 * A step-by-step guide to game localization ([link](https://www.gamedev.net/tutorials/business/production-and-management/a-step-by-step-guide-to-game-localization-r5627/)).
 * On translating Portal (and other games) ([link](https://medium.com/@shaigreenbergtm/on-translating-portal-and-other-games-fa146a514484)).
