@@ -210,6 +210,12 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Introduction to Art Direction for Games ([link](https://shahriyarshahrabi.medium.com/introduction-to-art-direction-for-games-c43fe0162cf6)).
 * The material art of The Last Of Us Part I ([youtube](https://www.youtube.com/watch?v=DEuYcOWNV2k)).
 * 7 tips for Animation beginners ([link](https://80.lv/articles/7-tips-for-animation-beginners/)).
+* Designing for Aesthetic in video games art direction ([link](https://shahriyarshahrabi.medium.com/designing-for-aesthetic-in-video-games-art-direction-7af0cd39afb3)).
+* Getting started as Technical Artist ([youtube](https://www.youtube.com/watch?v=FEbpBZu_bFE)).
+* The best design inspiration on 𝕏 ([link](https://trending.design/)).
+* How to pick more beautiful colors for your data visualizations ([link](https://blog.datawrapper.de/beautifulcolors/)).
+* Houdini beginner tutorial (3+ hours) ([youtube](https://www.youtube.com/watch?v=-0U9KYI1wKY)).
+* Using light and color in game development: a beginner’s guide ([link](https://medium.com/my-games-company/using-light-and-color-in-game-development-a-beginners-guide-400edf4a7ae0)).
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
@@ -424,6 +430,18 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * How to get past the "blank canvas" in level design ([youtube](https://www.youtube.com/watch?v=fv8i4IBdAHI)).
 * A dialogue pipeline or keeping your lines in line ([link](https://wildwinter.medium.com/a-dialogue-pipeline-db0be8d8509c)).
 * Narrative moments on a Budget ([youtube](https://www.youtube.com/watch?v=3pHqSJwPFWQ)).
+* Battle Pass fundamentals ([link](https://galyonk.in/battle-pass-fundamentals-309efd9975a8)).
+* A dialogue pipeline ([link](https://wildwinter.medium.com/a-dialogue-pipeline-db0be8d8509c)).
+* Making immersive games 101: Maintaining the Magic Circle ([link](https://www.gamedeveloper.com/blogs/making-immersive-games-1-1-maintaining-the-magic-circle)).
+* Universal laws of Game Design ([link](https://thingspool.net/game-design/list.html)).
+* Level design breakdown: Shadow of the Tomb Raider ([link](https://uxdesign.cc/level-design-breakdown-challenge-tombs-in-shadow-of-the-tomb-raider-7bfb8429fbe4)).
+* Wealth systems in RPGs ([link](https://troypress.com/wealth-systems-in-rpgs)).
+* Rules of Open World game design ([youtube](https://www.youtube.com/watch?v=KsbJPNKtZ7I)).
+* What exactly is Game Juice? ([youtube](https://www.youtube.com/watch?v=3tvoUAPx5FY)).
+* Technical Game Designer assignments ([link](https://medium.com/@tricky_fat_cat/technical-game-designer-assignments-e6b89316fef9)).
+* Trello for game dev, a starter guide ([youtube](https://www.youtube.com/watch?v=d-jD1pnJtdA)).
+* The dynamics of stress in Darkest Dungeon ([link](https://nicolaluigidau.wordpress.com/2024/02/06/the-dynamics-of-stress-in-darkest-dungeon/)).
+* Adapting to gamer types in game design: a beginner’s guide ([link](https://gamedesignskills.com/game-design/gamer-types)).
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
@@ -648,6 +666,14 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Building an infinitely scalable multiplayer game ([link](https://bullet-mania.netlify.app/)).
 * A deep dive in to many games GPU frame building ([link](https://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/)).
 * Solid principles in C# ([link](https://harshmatharu.com/blog/solid-principles-in-csharp)).
+* Dependency Injection for games ([link](https://medium.com/@ceffa93/dependency-injection-for-games-519cf2a545ee)).
+* Tools & Libraries to make your own C++ game engine ([link](https://pikuma.com/blog/how-to-make-your-own-cpp-game-engine)).
+* Why can't you multiply vectors? ([link](https://www.youtube.com/watch?v=htYh-Tq7ZBI)).
+* Monaspace, custom fonts for code ([link](https://monaspace.githubnext.com/)).
+* A site that provides thematically grouped lists of words ([link](https://classnames.paulrobertlloyd.com/)).
+* Modern C++ Programming Course (C++11/14/17/20) ([link](https://github.com/federico-busato/Modern-CPP-Programming)).
+* Open Source Game Clones ([link](https://osgameclones.com)).
+* Machine Learning for Game Developers ([youtube](https://www.youtube.com/watch?v=sTAqWRsEiy0)).
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
@@ -706,6 +732,9 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Creating a Horror Score on a shoestring budget ([youtube](https://www.youtube.com/watch?v=_j12AOrQnqA)).
 * A quick, practical primer on crafting memorable game music ([link](https://medium.com/my-games-company/a-quick-practical-primer-on-crafting-memorable-game-music-598d0f1d157b)).
 * A project to preserve the old sounds of all types of machines ([link](https://www.conservethesound.de/)).
+* The 'Tunic' audio talk ([youtube](https://www.youtube.com/watch?v=sCIK78OHrIY)).
+* Targeting Your Audience With the Trailer's Sound Effects ([link](https://www.derek-lieu.com/blog/2024/1/7/targeting-your-audience-with-the-trailers-sound-effects)).
+* Chaos Theory in game music ([youtube](https://www.youtube.com/watch?v=y7DSWCnGInA)).
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
@@ -791,6 +820,10 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Best game project management tools for game developers ([link](https://pinglestudio.com/blog/co-development/best-game-project-management-tools-for-game-developers)).
 * An introduction to how game development pipelines work ([link](https://www.gamesindustry.biz/an-introduction-to-how-game-development-pipelines-work)).
 * Running a studio Without a huge hit ([youtube](https://www.youtube.com/watch?v=6MWFEo2dHH4)).
+* Demo-driven development ([link](https://www.rubick.com/demo-driven-development/)).
+* The Startup CTO's Handbook ([link](https://github.com/ZachGoldberg/Startup-CTO-Handbook)).
+* Decade of game dev studio evolution: lessons learned ([link](https://medium.com/@lukaszhacura/decade-of-game-dev-studio-evolution-lessons-learned-42d11b84f281)).
+* Watch this if you're a solo game developer ([youtube](https://www.youtube.com/watch?v=Io7kock1ORA)).
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
@@ -1029,6 +1062,16 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Top 7 hard skills for Unity Junior developer ([link](https://medium.com/@wondrous_aqua_toad_341/top-7-hard-skills-for-unity-junior-developer-8a28124d14a2)).
 * Tips for creating your own C# code style guide ([youtube](https://www.youtube.com/watch?v=bKGMkkf4X0o)).
 * Unity Netcode 100% server authoritative with client prediction and reconciliation ([youtube](https://www.youtube.com/watch?app=desktop&v=-lGsuCEWkM0)).
+* P2P or Dedicated Servers? What's the best for your Unity game? ([youtube](https://www.youtube.com/watch?v=Tt3ZLHKcP2U)).
+* Optimizing code by replacing Classes with Structs ([link](https://medium.com/@swiftroll3d/optimizing-code-by-replacing-classes-with-structs-unity-c-tutorial-f1dd3a0baf50)).
+* Making multiplayer games has never been easier ([youtube](https://www.youtube.com/watch?v=PCd3yp_VZ-c)).
+* A list of curated open source Unity packages ([link](https://github.com/StefanoCecere/awesome-opensource-unity)).
+* Awesome Unity Open Source on GitHub ([link](https://github.com/baba-s/awesome-unity-open-source-on-github)).
+* Applying SOLID principles in Unity C# for robust game development ([link](https://mracipayam.medium.com/applying-solid-principles-in-unity-c-for-robust-game-development-7f19cf5f804f)).
+* Addressables with loading bar in Unity server AWS ([link](https://medium.com/@onurkiris05/addressables-with-loading-bar-in-unity-aws-part-1-b382a952ac76)).
+* Unity DOTS massive tutorial ([youtube](https://www.youtube.com/watch?v=4ZYn9sR3btg)).
+* Flyweight Factory with Unity Object Pooling ([youtube](https://www.youtube.com/watch?v=qHn4sschAro)).
+* Time travel in Unity ([youtube](https://www.youtube.com/watch?v=d3QVNTRzFVU)).
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
@@ -1073,12 +1116,15 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Unreal Engine game optimization on a Budget ([youtube](https://www.youtube.com/watch?v=G51QWcitCII)).
 * C++ or Blueprints: pros and cons, when to use one or the other? ([link](https://medium.com/the-polyglot-programmer/c-or-blueprints-pros-and-cons-when-to-use-one-or-the-other-4cf37853b301)).
 * HUGE documentation about Unreal Engine and C++ ([link](https://github.com/MrRobinOfficial/Guide-UnrealEngine)).
+* Unreal Engine performance guide by AMD ([link](https://gpuopen.com/learn/unreal-engine-performance-guide/)).
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
 ## **Engines**
 
+* Open and curated list of Game Engines ([link](https://enginesdatabase.com/)).
+* List of 2D indie games ([link](https://docs.google.com/spreadsheets/d/1z1RV6w4HjPODFcao34h72Vw-9KxtQ9rv0ZM7folTUMU)).
 * Unreal Engine ([link](https://www.unrealengine.com)).
 * Unity ([link](http://unity3d.com/)).
 * CryEngine ([link](https://www.cryengine.com/)).
@@ -1102,7 +1148,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Banshee3D ([link](http://www.banshee3d.com)).
 * Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. ([link](https://github.com/bkaradzic/bgfx)).
 * Diligent ([link](https://github.com/DiligentGraphics/DiligentEngine)).
-* List of 2D indie games ([link](https://docs.google.com/spreadsheets/d/1z1RV6w4HjPODFcao34h72Vw-9KxtQ9rv0ZM7folTUMU)).
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
@@ -1175,6 +1220,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Efficient game dev: 10 lessons from a full time indie ([youtube](https://www.youtube.com/watch?v=jBZFWHCpFhU)).
 * Classic postmortem: GoldenEye 007 ([youtube](https://www.youtube.com/watch?v=Z1Fx18cppZk)).
 * The publishing of Lunistice ([link](https://medium.com/@AGrumpyFox/the-publishing-of-lunistice-post-mortem-64cf9fd53dd5)).
+* 100 days of Steam sales: analysis ([link](https://medium.com/@simon.nordon/100-days-of-steam-sales-analysis-aa28a183eedf)).
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
@@ -1246,6 +1292,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * A mega-list of learning resources for Game Creators ([link](https://github.com/notpresident35/awesome-learn-gamedev)).
 * Indiedev startup stack ([link](https://getwaitlist.com/blog/solo-dev-startup-stack)).
 * Free Motion Capture for everyone ([link](https://freemocap.org)).
+* Set of nice spinners for imgui ([link](https://github.com/dalerank/imspinner)).
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
@@ -1392,6 +1439,11 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * The golden rule of game promotion: no one cares about your game ([youtube](https://www.youtube.com/watch?v=-341jEXj-iI)).
 * 60 Game Marketing Mistakes And How To Avoid Them ([PDF](https://mailchi.mp/4d9458882e07/download-my-new-book)).
 * Over 1,000,000 units with no marketing budget, a bunch of internal stats ([link](https://twitter.com/bit_golem/status/1664620756704145408)).
+* What IS it About These Games? ([youtube](https://www.youtube.com/watch?app=desktop&v=UOfUl4Hp06s)).
+* How to make The Press pay attention to Your Game ([youtube](https://www.youtube.com/watch?v=au2o38wkQu8)).
+* Mastering indie game success: marketing, publishing, and influencer strategies ([youtube](https://www.youtube.com/live/vQ-wwn8FWnQ?si=vhqb-Eo45zAkejP6&t=24)).
+* How to make effective thumbnails and Press Kits ([youtube](https://www.youtube.com/watch?v=IFvSuq77FQo)).
+* How to get TikTok influencers to cover your game and earn millions of impressions ([link](https://howtomarketagame.com/2024/02/07/how-to-get-tiktok-influencers-to-cover-your-game-and-earn-millions-of-impressions/)).
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
@@ -1469,6 +1521,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Indiegame Publishers & Investors Database (PC/Console ONLY) ([link](https://docs.google.com/spreadsheets/d/15AN1I1mB67AJkpMuUUfM5ZUALkQmrvrznnPYO5QbqD0)).
 * The 5 most important graphs in Gaming ([link](https://medium.com/geekculture/the-5-most-important-graphs-in-gaming-5349997493d9)).
 * An updated list of +300 publishers and +100 support studios (porting, production, QA, etc.) ([link](https://docs.google.com/spreadsheets/d/11g8MCMFNrBM0CXIWrT8bej5vqR1fCJGMhoFfbS5ph3Q/edit#gid=0)).
+* Steam Visibility or How Games Get Surfaced to Players ([youtube](https://www.youtube.com/watch?v=qkmAqBvUBOw)).
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
@@ -1548,6 +1601,8 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Great books for aspiring Game Developers ([link](https://80.lv/articles/80-level-ratings-great-books-for-aspiring-game-developers/)).
 * How to reach the gaming industry ([link](https://medium.com/@carrillouriel/how-i-got-into-the-game-industry-3b74fccf7a)).
 * Why (and how) you should stay fit and healthy as a game developer ([link](https://covyne.medium.com/why-and-how-you-should-stay-fit-and-healthy-as-a-game-developer-e0eb34df6d91)).
+* Guide to Game Jams ([link](https://www.virginia-leo.com/post/guide-to-game-jams)).
+* How to survive as an indie developer in mobile games ([link](https://medium.com/@bartbonte/how-to-survive-as-an-indie-developer-in-mobile-games-bf493347e72f)).
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
