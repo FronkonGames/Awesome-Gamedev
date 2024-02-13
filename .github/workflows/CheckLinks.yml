@@ -18,4 +18,4 @@ jobs:
     - name: Install awesome_bot
       run: gem install awesome_bot
     - name: Run awesome_bot
-      run: awesome_bot README.md --allow-redirect --allow-dupe --allow-timeout --set-timeout 120 --skip-save-results --allow 429 --allow-ssl
+      run: awesome_bot README.md --allow-redirect --set-timeout 180 --skip-save-results --allow 429 --allow-ssl
