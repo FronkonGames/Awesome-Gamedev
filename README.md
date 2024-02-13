@@ -173,9 +173,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Blender 2.9 PBR texturing beginner tutorial ([youtube](https://www.youtube.com/watch?v=A7QteBvUOdQ)).
 * Creating beautiful sci-fi worlds in Unreal Engine 4, full breakdown ([youtube](https://www.youtube.com/watch?v=q4nAIo1VAAQ)).
 * Houdini Engine installation guide for Unity ([youtube](https://youtu.be/_Wte3iJYGNM)).
-* Making procedural pixel textures ([link](https://3drealms.com/devblog/graven-dev-blog-4-making-procedural-pixel-textures/)).
 * How to become an environment artist for games ([youtube](https://www.youtube.com/watch?v=uPtJMke4LRE)).
-* 7 Unity tips for a beginner 3D artist ([link](https://anananasstudio.medium.com/7-unity-tips-for-a-beginner-3d-artist-fdd3486c1140)).
 * How games use light to manipulate you ([youtube](https://www.youtube.com/watch?v=7MNl-j7WqTw)).
 * Realtime environment lighting with Unity HDRP ([link](https://medium.com/elegos-development-blog/realtime-environment-lighting-with-unity-hdrp-7d04846844e8)).
 * From start to finish: bringing characters to life ([link](https://medium.com/@sigono/from-start-to-finish-bringing-characters-to-life-in-opus-echo-of-starsong-1d9d8a7b256b)).
@@ -559,7 +557,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Unreal Engine gameplay framework primer for C++ ([link](http://www.tomlooman.com/ue4-gameplay-framework/)).
 * OpenGL, step by step ([link](http://ogldev.atspace.co.uk/)).
 * The total beginner's guide to game AI ([link](https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/)).
-* A list of useful books for game AI programming ([link](http://alumni.media.mit.edu/~jorkin/aibooks.html)).
 * From setup to gameplay, a introduction to C++ for Unreal Engine 4 ([youtube](https://www.youtube.com/watch?v=D4UM73O7Zxs)).
 * Game source code collection ([link](https://archive.org/details/gamesourcecode)).
 * A list of awesome programming talks by language ([link](https://github.com/hellerve/programming-talks)).
@@ -715,7 +712,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * How to make your own UI sounds ([youtube](https://www.youtube.com/watch?v=mq1kWnOVoAk)).
 * Basic music theory for game development ([youtube](https://www.youtube.com/watch?v=B1Pacxs6Pdg)).
 * Creating sound effects for a game with only FOSS (Free and open-source) software ([youtube](https://www.youtube.com/watch?v=QGI1QsFcNzU)).
-* How to achieve a great game audio in indie games ([link](https://blog.gladiogames.com/all-posts/how-to-achieve-a-great-game-audio-in-indie-games)).
 * Sound design complete: great tutorial compilation ([youtube](https://www.youtube.com/watch?v=jWorjBDcty4)).
 * How to make sound effects for games ([youtube](https://youtu.be/LgxOcZDor8U)).
 * Making music for your indie game ([youtube](https://www.youtube.com/watch?v=U-PllK2C5mw)).
@@ -984,7 +980,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * How to use Native Code (C/C++) in Unity ([link](https://medium.com/huawei-developers/how-to-use-native-code-c-c-in-unity-bb4f2553e61d)).
 * Git good with Unity ([link](https://chandler-lane.medium.com/git-good-with-unity-cb26a7cf0012)).
 * Setting up Deeplinks and Universal Links in Unity ([youtube](https://www.youtube.com/watch?v=bKiwNfNqKAc)).
-* How to organize a Unity project ([link](https://allislandswail.com/dev-blog/how-to-organize-a-unity-project)).
 * Improving ragdoll Unity physics ([youtube](https://youtu.be/Iyqo-hjLg20)).
 * The Graphics Pipeline and You, a tutorial about writing Unity URP shaders, only code ([link](https://nedmakesgames.medium.com/writing-unity-urp-shaders-with-code-part-1-the-graphics-pipeline-and-you-798cbc941cea)).
 * Introduction to C# Unit Testing in Unity ([link](https://medium.com/geekculture/c-unit-testing-in-unity-80d8bbfc62bb)).
@@ -1056,7 +1051,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Make awesome cutscenes in Unity using Timeline ([youtube](https://www.youtube.com/watch?v=MpYIoAoE0bE)).
 * Unity DOTS masterclass ([youtube](https://www.youtube.com/watch?v=pyuu1V6dLGo)).
 * 100+ free Unity courses for Beginners in 2023 ([link](https://coursesity.com/free-tutorials-learn/unity)).
-* Style Guide for Unity and C# ([link](https://blog.gladiogames.com/all-posts/c-style-guide-for-unity-write-clean-and-understandable-code)).
 * Getting started with Unity UI toolkit ([link](https://medium.com/@braulio-camarenah/getting-started-with-unity-ui-toolkit-e58b1fd39d08)).
 * Dependency Injection in easy words ([link](https://medium.com/@sonusprocks/dependency-injection-unity-c-in-easy-words-8344c6eff52d)).
 * Top 7 hard skills for Unity Junior developer ([link](https://medium.com/@wondrous_aqua_toad_341/top-7-hard-skills-for-unity-junior-developer-8a28124d14a2)).
@@ -1163,7 +1157,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Psych postmortem ([link](http://www.gamasutra.com/blogs/ChristianBaumgartner/20160209/265443/Psych_Postmortem.php)).
 * Lessons from our launch trailer for Poly Bridge ([link](http://mjoshua.com/blog/2016/07/26/lessons-from-poly-bridges-launch-trailer/)).
 * Thermometers puzzles sales & downloads statistics ([link](https://www.frozax.com/blog/2016/06/thermometers-puzzles-sales-downloads-statistics/)).
-* Why is selling good games so hard? ([link](https://thingtrunk.com/bod-early-access-launch-postmortem/)).
 * Costs: A year of game development ([link](https://yellowlensgames.wordpress.com/2016/10/26/costs-a-year-of-game-development/)).
 * The (whole) making of toto temple deluxe ([link](http://juicybeast.com/2015/12/the-whole-making-of-toto-temple-deluxe/)).
 * Poncho – A postmortem ([link](http://poncho-game.com/?p=208)).
@@ -1279,7 +1272,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * A list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers ([link](https://free-for.dev/)).
 * 4500+ free high resolution textures (JPEG, not PBR) ([link](https://texturesforfree.com/)).
 * Google Material Icons ([link](https://fonts.google.com/icons)).
-* Free 3D objects ([link](https://www.3dmodelscc0.com/)).
 * Siggraph 2021 links ([link](https://blog.selfshadow.com/2021/08/18/siggraph-2021-links/)).
 * 10 great websites for game developers ([link](https://void1gaming.medium.com/10-great-websites-for-game-developers-4d2f7af6475b)).
 * Lux Materium, free CC0 photogrammetry assets ([link](https://www.luxmaterium.com/)).
@@ -1481,7 +1473,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Is your business model evil? The moral maze of the new games business ([youtube](https://www.youtube.com/watch?v=gjPaQldK-RE&feature=youtu.be)).
 * Hacking Kickstarter: How to raise $100,000 in 10 days (includes Successful Templates, emails, etc.) ([link](http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc/)).
 * App stores, Steam and indie poverty: the web as an alternative ([link](http://wimi5.com/app-stores-steam-and-indie-poverty-the-web-as-an-alternative/)).
-* New mobile game statistics every game publisher should know in 2016 ([link](https://www.surveymonkey.com/business/intelligence/mobile-game-statistics/)).
 * Stop shooting yourself in the foot: 10 elusive secrets to avoid complete commercial failure ([link](http://gdcvault.com/play/1023776/Stop-Shooting-Yourself-in-the)).
 * How to survive in gamedev for eleven years without a hit ([youtube](https://www.youtube.com/watch?v=JmwbYl6f11c)).
 * Big list of Steam indie publishers (50+ companies) ([link](https://docs.google.com/spreadsheets/d/1envgysmy1jRSPGimAXMhWcKQrdxG7eFK9YdBruJzhWw/edit#gid=0)).
