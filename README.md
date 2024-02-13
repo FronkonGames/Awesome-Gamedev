@@ -198,10 +198,8 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Official Lightmapping troubleshooting guide ([forum](https://forum.unity.com/threads/lightmapping-troubleshooting-guide.1340936/)).
 * How to find a UI theme for your game ([link](https://medium.com/mighty-bear-games/how-to-find-a-ui-theme-for-your-game-3dc7ce3599fb)).
 * Cinematic lighting in Unity, from creation to final render ([youtube](https://www.youtube.com/watch?v=I1i8uDG-MYo)).
-* Introduction to Art Direction for Games ([link](https://shahriyarshahrabi.medium.com/introduction-to-art-direction-for-games-c43fe0162cf6)).
 * How to make a game cinematic ([link](https://medium.com/my-games-company/how-we-made-a-game-cinematic-our-wins-and-mistakes-with-rush-royale-7097b052ef52)).
 * Visual design rules you can safely follow every time ([link](https://anthonyhobday.com/sideprojects/saferules/)).
-* Massive database of game UIs ([link](https://www.gameuidatabase.com/)).
 * Introduction to Art Direction for Games ([link](https://shahriyarshahrabi.medium.com/introduction-to-art-direction-for-games-c43fe0162cf6)).
 * The material art of The Last Of Us Part I ([youtube](https://www.youtube.com/watch?v=DEuYcOWNV2k)).
 * 7 tips for Animation beginners ([link](https://80.lv/articles/7-tips-for-animation-beginners/)).
@@ -1258,7 +1256,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * A collection of video games interfaces, screenshots, and clips ([link](https://interfaceingame.com/)).
 * A collection of tools for developers who have little to no artistic talen ([link](https://nodesign.dev/)).
 * A curated library of free music for content creators ([link](https://cchound.com)).
-* GDC vault explorer ([link](https://yankooliveira.com/gdcvault/index.html)).
 * A collection of bitmap fonts pulled from various demo scene archives over the years ([link](https://github.com/ianhan/BitmapFonts)).
 * A list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers ([link](https://free-for.dev/)).
 * 4500+ free high resolution textures (JPEG, not PBR) ([link](https://texturesforfree.com/)).
