@@ -196,11 +196,8 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Using AI to generate game art ([youtube](https://www.youtube.com/watch?v=UZEvwJCoWho)).
 * How to use shaders to create stylized VFX ([youtube](https://www.youtube.com/watch?v=pqdVG_qcKok)).
 * Official Lightmapping troubleshooting guide ([forum](https://forum.unity.com/threads/lightmapping-troubleshooting-guide.1340936/)).
-* Game UI Database: collecting references to inspire designers ([link](https://www.gameuidatabase.com/)).
 * How to find a UI theme for your game ([link](https://medium.com/mighty-bear-games/how-to-find-a-ui-theme-for-your-game-3dc7ce3599fb)).
-* Introduction to Art Direction for Games ([link](https://shahriyarshahrabi.medium.com/introduction-to-art-direction-for-games-c43fe0162cf6)).
 * Cinematic lighting in Unity, from creation to final render ([youtube](https://www.youtube.com/watch?v=I1i8uDG-MYo)).
-* Visual design rules you can safely follow every time ([link](https://anthonyhobday.com/sideprojects/saferules/)).
 * Introduction to Art Direction for Games ([link](https://shahriyarshahrabi.medium.com/introduction-to-art-direction-for-games-c43fe0162cf6)).
 * How to make a game cinematic ([link](https://medium.com/my-games-company/how-we-made-a-game-cinematic-our-wins-and-mistakes-with-rush-royale-7097b052ef52)).
 * Visual design rules you can safely follow every time ([link](https://anthonyhobday.com/sideprojects/saferules/)).
@@ -426,7 +423,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * The quest to enhance design in video games ([link](https://80.lv/articles/the-quest-to-enhance-design-in-video-games/)).
 * Writing the Dialogue System for Cobalt Core ([link](https://medium.com/@daisyowl/writing-the-dialogue-system-for-cobalt-core-34f3c0c03d57)).
 * How to get past the "blank canvas" in level design ([youtube](https://www.youtube.com/watch?v=fv8i4IBdAHI)).
-* A dialogue pipeline or keeping your lines in line ([link](https://wildwinter.medium.com/a-dialogue-pipeline-db0be8d8509c)).
 * Narrative moments on a Budget ([youtube](https://www.youtube.com/watch?v=3pHqSJwPFWQ)).
 * Battle Pass fundamentals ([link](https://galyonk.in/battle-pass-fundamentals-309efd9975a8)).
 * A dialogue pipeline ([link](https://wildwinter.medium.com/a-dialogue-pipeline-db0be8d8509c)).
@@ -639,7 +635,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * GPU Programming for Video Games at Georgia Tech ([youtube](https://www.youtube.com/playlist?list=PLOunECWxELQQwayE8e3WjKPJsTGKknJ8w)).
 * Learn OpenGL using C++ ([youtube](https://www.youtube.com/watch?v=b1EZfr3ZM6E&list=PLS9G7A6kaaHNJ3JI-PDoyz8Upq8g1-0LK)).
 * The Pyramid of Coding Principles ([link](https://muhammad-rahmatullah.medium.com/the-pyramid-of-basic-coding-principles-e33b7c3cb316)).
-* Giving personality to Procedural Animations using Math ([youtube](https://www.youtube.com/watch?v=KPoeNZZ6H4s)).
 * How to prevent Cheating and Hacking with proper Client + Server based C# programming ([youtube](https://www.youtube.com/watch?v=MFk6x-r6HEw)).
 * Using Wave Function Collapse to create levels ([youtube](https://www.youtube.com/watch?v=TO0Tx3w5abQ)).
 * Giving personality to Procedural Animations using Math ([youtube](https://www.youtube.com/watch?v=KPoeNZZ6H4s)).
@@ -969,7 +964,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * How Scriptable Objects work and a practical example ([youtube](https://youtu.be/oovAPuckQjs)).
 * All of Unity, in one place ([link](https://github.com/mechaniac/Map-of-Unity)).
 * Best optimization tips by Unity engineers at Unite ([link](https://gamedev.center/best-optimization-tips-by-unity-engineers-at-unite/)).
-* Loading and Resource Management ([link](https://blog.en.uwa4d.com/2022/02/01/unity-performance-optimization-series-loading-and-resource-management/)).
 * Optimize your games in Unity to 60 FPS and above ([youtube](https://www.youtube.com/watch?v=RGEuSuQ1OcM)).
 * Fully explained game codebases in Unity ([link](https://jasont.co/game-codebase-tours/)).
 * Multi-threaded burst-compiled AI goal oriented action planning in Unity ([youtube](https://www.youtube.com/watch?v=2GGEfHsZgsQ)).
@@ -1139,7 +1133,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Defold ([link](http://www.defold.com/)).
 * Urho3D ([link](http://urho3d.github.io/)).
 * SFML ([link](http://www.sfml-dev.org/)).
-* Banshee3D ([link](http://www.banshee3d.com)).
 * Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. ([link](https://github.com/bkaradzic/bgfx)).
 * Diligent ([link](https://github.com/DiligentGraphics/DiligentEngine)).
 
@@ -1200,13 +1193,11 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * How do you make a game that was supposed to be small, but ended up being huge ([youtube](https://www.youtube.com/watch?v=DcxRUc092WY)).
 * Free 19-pack texture bundle ([link](https://store.3dtotal.com/collections/ebooks/products/total-textures-19-pack-download-bundle-50-off-download-only)).
 * Base meshes, updated weekly, 100% free, CC0 license ([link](https://thebasemesh.com/)).
-* Playlist of CC BY 3.0 tracks ([youtube](https://www.youtube.com/watch?v=Ef0VrcrOatg&list=PLsVfn9YIFmNC3SL_FgAe6k4_is4stMOh2)).
 * Find everything you need for Game Development ([link](https://gamedevnexus.com/)).
 * 30+ websites for FREE 3D models download and animations ([youtube](https://www.youtube.com/watch?v=i_lDgeAG7bw)).
 * Hi-Res public domain artworks ([link](https://artvee.com/)).
 * Free background classical piano music ([link](https://happysoulmusic.com/kimiko-ishizaka/)).
 * Game UI Database ([link](https://www.gameuidatabase.com/)).
-* Game interfaces ([link](https://interfaceingame.com/)).
 * Motion datasets collected by Bandai Namco Research Inc ([link](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset)).
 * Free icons for games ([link](https://game-icons.net/)).
 * Free library with 600+ Blender materials ([link](https://blender-materials.org/)).
@@ -1424,7 +1415,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Game trailers: breaking down a key discovery mistake ([link](https://newsletter.gamediscover.co/p/game-trailers-breaking-down-a-key?post_id=73900592&publication_id=14089)).
 * Indie game Press Kit: Master the basics ([link](https://impress.games/blog/indie-game-press-kit-master-the-basics)).
 * Everything you need to create the ultimate indie game press kit ([link](https://impress.games/press-kitty)).
-* Empathizing with Steam or how users actually shop for your game ([youtube](https://www.youtube.com/watch?v=UJiv14uPOac)).
 * How great key art can lead to Doubling Marketing Numbers ([youtube](https://www.youtube.com/watch?v=V5jpY0ArRFY)).
 * Will your games be marketed by ChatGPT? ([link](https://howtomarketagame.com/2023/03/28/will-your-games-be-marketed-by-chat-gpt/)).
 * No-Budget DIY marketing for Indie Games ([youtube](https://www.youtube.com/watch?v=NWyZlGMysH8)).
