@@ -834,7 +834,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Modern 2D techniques ([youtube](https://www.youtube.com/watch?v=bUGbXThraVM)).
 * Unity 5 - Intro to Lighting and Rendering ([link](http://unity3d.com/es/learn/tutorials/modules/beginner/graphics/lighting-and-rendering)).
 * Unity best practices ([link](http://www.glenstevens.ca/unity3d-best-practices/)).
-* Infinite terrain generation in Unity ([link](http://code-phi.com/infinite-terrain-generation-in-unity-3d/)).
 * EditorWindow lifecycle ([link](http://t-machine.org/index.php/2015/06/25/unity3d-missing-docs-editorwindow-lifecycle/)).
 * How to make a MOBA in Unity ([youtube](https://www.youtube.com/playlist?list=PLHW9PxPVcecHLa7JP-Ts09LZYHLIwdky_)).
 * Building Unity games in Visual Studio ([link](https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2015-Final-Release-Event/Building-Unity-games-in-Visual-Studio)).
