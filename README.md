@@ -210,7 +210,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Houdini beginner tutorial (3+ hours) ([youtube](https://www.youtube.com/watch?v=-0U9KYI1wKY)).
 * Using light and color in game development: a beginner’s guide ([link](https://medium.com/my-games-company/using-light-and-color-in-game-development-a-beginners-guide-400edf4a7ae0)).
 * Unity for technical art: advantages, tools & workflows ([link](https://80.lv/articles/unity-for-technical-art-advantages-tools-workflows/)).
-* A database of physically based values for CG artists ([link](https://physicallybased.info/)).
 * Helldivers 2 trailers review by Derek Lieu ([youtube](https://www.derek-lieu.com/blog/2024/3/3/helldivers-2-trailers-review)).
 * Color Science Precis for the CGI Artist ([link](https://colour-science.github.io/colour-science-precis/)).
 
@@ -302,7 +301,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Combat system, game mechanics discussion ([youtube](https://www.youtube.com/watch?v=Hk1dHpKnc7A)).
 * Storytelling and Character Design series ([youtube](https://www.youtube.com/playlist?list=PL8nFs6m2Yq_X-etltVp94nSxF2on17-ZK)).
 * 7 tips for aspiring game designers ([link](http://www.squeakywheel.ph/blog/2017/5/24/7-tips-for-aspiring-game-designers)).
-* A psychological approach to making desicions in games ([link](https://sitavriend.wordpress.com/2017/06/19/making-decisions-dual-process-theory/)).
 * Core principles to make your environments understandable to the player ([link](https://80.lv/articles/defining-environment-language-for-video-games/)).
 * Designing each of the 50 weapons in Dead Cells to feel distinctive ([link](http://www.gamasutra.com/view/news/299848/Designing_each_of_the_50_weapons_in_Dead_Cells_to_feel_distinctive.php)).
 * Environment storytelling in Dishonored 2 ([link](https://80.lv/articles/environment-storytelling-in-dishonored-2/)).
@@ -677,7 +675,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Machine Learning for Game Developers ([youtube](https://www.youtube.com/watch?v=sTAqWRsEiy0)).
 * On light, colors, mixing paints, and numerical optimization ([link](https://github.com/miciwan/PaintMixing)).
 * The Game Engine series (+100 videos) ([youtube](https://www.youtube.com/watch?v=JxIZbV_XjAs&list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)).
-* Asynchronous Programming in C# ([link](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)).
 * The guide to Git I never had ([link](https://medium.com/@jake.page91/the-guide-to-git-i-never-had-a89048d4703a)).
 * C++ Game Programming, AI for Video Games, and Intro to AI ([link](https://www.cs.mun.ca/~dchurchill/teaching/)).
 * Learn Computer Graphics Programming ([link](https://www.scratchapixel.com/index.html)).
@@ -852,8 +849,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Serialization best practices ([link](http://forum.unity3d.com/threads/serialization-best-practices-megapost.155352)).
 * Best practices for physically based content creation ([youtube](https://www.youtube.com/watch?v=OeEYEUCa4tI)).
 * Modern 2D techniques ([youtube](https://www.youtube.com/watch?v=bUGbXThraVM)).
-* Unity 5 - Intro to Lighting and Rendering ([link](http://unity3d.com/es/learn/tutorials/modules/beginner/graphics/lighting-and-rendering)).
-* Unity best practices ([link](http://www.glenstevens.ca/unity3d-best-practices/)).
 * EditorWindow lifecycle ([link](http://t-machine.org/index.php/2015/06/25/unity3d-missing-docs-editorwindow-lifecycle/)).
 * How to make a MOBA in Unity ([youtube](https://www.youtube.com/playlist?list=PLHW9PxPVcecHLa7JP-Ts09LZYHLIwdky_)).
 * Building Unity games in Visual Studio ([link](https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2015-Final-Release-Event/Building-Unity-games-in-Visual-Studio)).
@@ -862,7 +857,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Making of Monument Valley in Unity ([youtube](https://www.youtube.com/watch?v=mCCC9hQm6MM)).
 * Quick setup scalable UI in Unity ([youtube](https://www.youtube.com/watch?v=HwZfv_17KN8)).
 * Making a sport game in Unity ([youtube](https://www.youtube.com/watch?v=Ud7RNhO_VRU)).
-* C# memory and performance tips for Unity ([link](http://www.somasim.com/blog/2015/04/csharp-memory-and-performance-tips-for-unity/)).
 * Introduction to Unity Analytics ([youtube](https://www.youtube.com/watch?v=axZJ6R8Iz8c)).
 * How to make realistic bullets in Unity ([link](http://www.habrador.com/tutorials/unity-realistic-bullets/)).
 * Resources for writing shaders in Unity ([link](https://github.com/VoxelBoy/Resources-for-Writing-Shaders-in-Unity)).
@@ -1039,7 +1033,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Procedurally generating a city using Wave Collapse Function ([youtube](https://www.youtube.com/watch?v=Jsc3BQaJndQ)).
 * Six grass rendering techniques in Unity ([youtube](https://www.youtube.com/watch?v=uHDmqfdVkak)).
 * Improve game performance with Unity's Job System and the Burst Compiler ([youtube](https://www.youtube.com/watch?v=cJEmmvDQx5M)).
-* Improve retention by storing player data in the cloud ([link](https://gamedev-resources.com/improve-retention-by-storing-player-data-in-the-cloud/)).
 * Netcode for Game Objects ([youtube](https://www.youtube.com/watch?v=3yuBOB3VrCk)).
 * How to save 2 sec+ loading time of your game ([link](https://medium.com/hypemasters/how-to-save-2-sec-loading-time-of-your-game-f53611bbea0a)).
 * How to build Hot Reload for Unity ([link](https://immersivevrtools.com/Blog/how-to-build-hot-reload-functionality-for-unity)).
@@ -1175,11 +1168,9 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Thermometers puzzles sales & downloads statistics ([link](https://www.frozax.com/blog/2016/06/thermometers-puzzles-sales-downloads-statistics/)).
 * Costs: A year of game development ([link](https://yellowlensgames.wordpress.com/2016/10/26/costs-a-year-of-game-development/)).
 * The (whole) making of toto temple deluxe ([link](http://juicybeast.com/2015/12/the-whole-making-of-toto-temple-deluxe/)).
-* Poncho – A postmortem ([link](http://poncho-game.com/?p=208)).
 * One year of Gremlins, Inc. sales data across three app stores ([link](http://steamcommunity.com/games/369990/announcements/detail/483414098556767390)).
 * Crescent Loom Kickstarter postmortem ([link](http://wick.works/crescentloom-ks-postmortem/)).
 * KleptoCats post-mortem ([link](https://medium.com/@Fayer/kleptocats-post-mortem-english-59c28cff6193)).
-* Postmortem on Meganoid 2017 ([link](http://techblog.orangepixel.net/2017/04/post-mortem-on-meganoid-2017/)).
 * Postmortem: Thomas Brush's Pinstripe ([link](http://www.gamasutra.com/view/news/297284/Postmortem_Thomas_Brushs_Pinstripe.php)).
 * Another one bites the dust: Dynasty Feud postmortem ([link](http://www.gamasutra.com/blogs/JonSanchez/20170623/300333/Another_One_Bites_the_Dust_Dynasty_Feud_Postmortem.php)).
 * How not to launch a Kickstarter ([link](https://medium.com/level-three/how-not-to-launch-a-kickstarter-49799652fe76)).
@@ -1331,7 +1322,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 
 ## **Social**
 
-* hashtagify.me ([link](http://hashtagify.me/)).
 * mention.com ([link](https://mention.com)).
 * Game developer Mastodon how to guide ([link](https://medium.com/@steamgirlgame/game-dev-mastodon-how-to-guide-2beb40118021)).
 
@@ -1343,7 +1333,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Marketing indie games on a $0 budget ([youtube](https://www.youtube.com/watch?v=SkEQtMP2CuA)).
 * Step-by-step guide on how to promote your game ([link](https://www.reddit.com/r/gamedev/comments/22godl/stepbystep_guide_on_how_to_promote_your_game)).
 * The ultimate guide to App Store optimization in 2015 ([link](http://www.appfreak.net/ultimate-guide-app-store-optimization-2014/)).
-* Videogame marketing and PR ([pdf](http://www.sellmorevideogames.com/VideogameMarketingAndPR.pdf)).
 * How to calculate a marketing budget for your game in 3 steps ([link](http://www.indiegamegirl.com/how-to-calculate-a-marketing-budget/)).
 * 7 Dos and Donts of mobile app marketing ([link](http://www.dotcominfoway.com/images/infographic-7-dos-and-donts-of-mobile-app-marketing.jpg)).
 * That one lethal mistake of indie marketing ([link](http://www.theastronauts.com/2013/12/one-lethal-mistake-indie-marketing)).
@@ -1406,7 +1395,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * How my dumb mobile game got 400k downloads ([youtube](https://youtu.be/zkIfCo2JxJY)).
 * The $0 marketing game guide ([link](https://medium.com/@kitfoxgames/the-0-marketing-game-guide-e649a5ac83f4)).
 * The state of game discoverability: January 2020 ([link](https://www.gamasutra.com/blogs/SimonCarless/20200127/357230/The_State_Of_Game_Discoverability_January_2020.php)).
-* A modern approach to indie game marketing in 2020 ([link](https://www.mattkander.com/post/a-modern-approach-to-indie-game-dev-marketing-in-2020)).
 * 10 social media marketing tips for indie game developers ([link](https://blog.enjin.io/10-social-media-marketing-tips-for-indie-game-developers/)).
 * Valve's top tips for launching a game on Steam ([link](https://www.gamesindustry.biz/articles/2020-04-22-valves-top-tips-for-launching-a-game-on-steam)).
 * How to get the most out of your game's Steam page ([link](https://www.gamesindustry.biz/articles/2020-04-29-how-to-get-the-most-out-of-your-games-steam-page)).
