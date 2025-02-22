@@ -617,7 +617,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Engineering stable and reliable AI ([youtube](https://www.youtube.com/watch?v=OBusUGlnmWI)).
 * End-to-End procedural generation in Caves of Qud ([youtube](https://www.youtube.com/watch?v=jV-DZqdKlnE)).
 * Smoothstep function in Unreal and Unity ([youtube](https://www.youtube.com/watch?v=dn3y5KVxylQ)).
-* Asynchronous programming in C# ([link](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)).
 * Object-Oriented Entity-Component-System design ([link](https://voxely.net/blog/object-oriented-entity-component-system-design/)).
 * Emergent AI, smart agents and events for games ([link](https://psichix.github.io/emergent/)).
 * Game engine C++ programming tutorials ([youtube](https://www.youtube.com/watch?v=hRL56gXqj-4&list=PLU2nPsAdxKWQYxkmQ3TdbLsyc1l2j25XM)).
