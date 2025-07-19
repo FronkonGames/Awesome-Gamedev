@@ -1643,7 +1643,9 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * How to survive as an indie developer in mobile games ([link](https://medium.com/@bartbonte/how-to-survive-as-an-indie-developer-in-mobile-games-bf493347e72f)).
 * Jonathan Blow on advice for Indie Game Developers ([youtube](https://www.youtube.com/watch?v=S1pP8mQNBLg)).
 * Game maker toolkit notebook ([link](https://docs.google.com/document/d/1rDIupep9HG7u6rcsQBHnJ2v1J3TL9ZjpfRrM3OME9Xs/edit#heading=h.voxo5dmq0oth)).
-
+* Encyclopedia / Game compendium ([link](https://indiegamenews.github.io/Compendium/Home.html))
+* Resource for indie interviews and articles ([link](https://indiegamenews.github.io/IndieGameNews/))
+  
 **[⬆ back to top ⬆](#Contents)**
 <br>
 
