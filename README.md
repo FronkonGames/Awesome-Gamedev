@@ -1319,6 +1319,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Open source alternatives to popular software ([link](https://openalternative.co/)).
 * Big collection of clean CC0 models ([link](https://www.thebasemesh.com/)).
 * An open music encyclopedia ([link](https://musicbrainz.org/)).
+* An open blog for gamedev tutorials ([link](https://forgeleaf.com/)).
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
