@@ -1482,6 +1482,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * A complete step-by-step marketing strategy for video games ([link](https://gacrivastudio.notion.site/d1e4e8a86bb54793b47427c2d92cd43c?v=104388e8f8fe4a088acd0468a06795a6)).
 * 7 things I learned about Steam in 2024 ([link](https://howtomarketagame.com/2024/12/31/7-things-i-learned-about-steam-in-2024/)).
 * What works for getting Wishlists? ([link](https://www.valadria.com/what-works-for-getting-wishlists/)).
+* Submit your Steam game for a free homepage spotlight on TrendingNow.games ([link](https://trendingnow.games/contact)).
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
