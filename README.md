@@ -907,6 +907,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * 50 Tips and Best Practices for Unity (2016 Edition) ([link](http://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php)).
 * 1000000 items in Unity ([link](https://enzisoft.wordpress.com/2016/03/09/factorio-in-unity-part-1/)).
 * Unity open source search engine ([link](http://unitylist.com/)).
+* VersionAlert for Unity, tracks Unity Editor, Unity Hub, and Unity package releases in one place ([link](https://versionalert.com/unity)).
 * Extend the Unity editor ([link](https://www.raywenderlich.com/130721/extend-unity3d-editor)).
 * Compute shaders ([youtube](https://www.youtube.com/watch?v=qDk-WIOYUSY)).
 * Raymarching Distance Fields in Unity ([link](http://flafla2.github.io/2016/10/01/raymarching.html)).
