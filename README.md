@@ -1278,6 +1278,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * 10GB+ of high-quality game audio ([link](http://sonniss.com/GameAudioGDC.torrent)).
 * The big list of sound and music assets ([link](http://www.gamepix.com/blog/the-big-list-of-sound-and-music-assets-for-your-html5-game/)).
 * Kenny Assets ([link](http://www.kenney.nl/assets)).
+* [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 * TwentyEP ([link](https://soundcloud.com/auditory_cheesecake/sets/twentyep)).
 * Free Loop Project ([link](http://sleepfacingwest.com/)).
 * Free icons for your games ([link](http://game-icons.net/)).
