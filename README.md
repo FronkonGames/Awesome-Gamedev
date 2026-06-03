@@ -1571,6 +1571,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * LocalHeroes ([link](http://www.local-heroes.com/)).
 * VoiceBunny ([link](https://voicebunny.com)).
 * Polyglot Project ([link](https://docs.google.com/spreadsheets/d/17f0dQawb-s_Fd7DHgmVvJoEGDMH_yoSd8EYigrb0zmM)).
+* Localization Workflow Studio ([link](https://github.com/zhangzeyu99-web/localization-workflow-studio)).
 * Chinese mobile app UI trends ([link](http://dangrover.com/blog/2014/12/01/chinese-mobile-app-ui-trends.html)).
 * Top 100 countries by game revenues ([link](http://www.newzoo.com/free/rankings/top-100-countries-by-game-revenues/)).
 * How to succeed in the west ([link](http://www.slideshare.net/DavidPChiu/how-to-succeed-in-the-west-stats-best-practices-and-common-mistakes-for-f2p-core-games-kongregate-f2p-monetization-presentation-chinajoy-wmgc-2014)).
