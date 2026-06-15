@@ -1167,6 +1167,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Corona ([link](https://coronalabs.com/)).
 * Construct2 ([link](https://www.scirra.com/construct2)).
 * RPG Maker MV ([link](http://www.rpgmakerweb.com/)).
+* VNovels ([link](https://vnovels.com)).
 * DarkBASIC Pro ([link](https://www.thegamecreators.com/product/dark-basic-pro-open-source)).
 * Godot ([link](http://www.godotengine.org/)).
 * MonoGame ([link](http://www.monogame.net/)).
