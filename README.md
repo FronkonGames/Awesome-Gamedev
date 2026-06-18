@@ -11,29 +11,15 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 
 ## Contents
 
-- [Contents](#contents)
-- [**Art**](#art)
-- [**Design**](#design)
-- [**Code**](#code)
-- [**Audio**](#audio)
-- [**Organization**](#organization)
-- [**Unity**](#unity)
-- [**Unreal**](#unreal)
-- [**Godot**](#godot)
-- [**Engines**](#engines)
-- [**Postmortems**](#postmortems)
-- [**Web**](#web)
-- [**Resources**](#resources)
-- [**Tools**](#tools)
-- [**Social**](#social)
-- [**Marketing**](#marketing)
-- [**Commercial**](#commercial)
-- [**Localization**](#localization)
-- [**Bureaucracy**](#bureaucracy)
-- [**Hardware**](#hardware)
-- [**Testing**](#testing)
-- [**Misc**](#misc)
-- [**Fun**](#fun)
+| Production | Engines &amp; Tools | Business | Misc |
+|---|---|---|---|
+| 🎨 [**Art**](#art) | 🟦 [**Unity**](#unity) | 🗂️ [**Organization**](#organization) | 📝 [**Postmortems**](#postmortems) |
+| ✏️ [**Design**](#design) | 💙 [**Unreal**](#unreal) | 📣 [**Marketing**](#marketing) | 🖥️ [**Hardware**](#hardware) |
+| 💻 [**Code**](#code) | 🟢 [**Godot**](#godot) | 💰 [**Commercial**](#commercial) | 📌 [**Misc**](#misc) |
+| 🔊 [**Audio**](#audio) | ⚙️ [**Engines**](#engines) | 📄 [**Bureaucracy**](#bureaucracy) | 🎉 [**Fun**](#fun) |
+| 🌍 [**Localization**](#localization) | 🛠️ [**Tools**](#tools) | 👥 [**Social**](#social) | |
+| 🧪 [**Testing**](#testing) | 📦 [**Resources**](#resources) | | |
+| | 🌐 [**Web**](#web) | | |
 
 ## **Art**
 
@@ -560,7 +546,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Unit Tests, how to write testable code and why it matters ([link](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)).
 * Top 10 algorithms and data structures for competitive programming ([link](http://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)).
 * Best websites a programmer should visit ([link](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)).
-* Program a game engine from scratch ([link](http://dragonfly.wpi.edu/book/)).
 * Tinyheaders, one-file C/C++ libraries with no dependencies ([link](https://github.com/RandyGaul/tinyheaders)).
 * 7 ways to get better at C++ during this summer ([link](http://www.fluentcpp.com/2017/06/23/7-ways-better-cpp-summer/)).
 * How to Unit Test Unity code ([youtube](https://youtu.be/TyxDg70hc3g)).
