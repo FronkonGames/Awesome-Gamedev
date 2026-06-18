@@ -467,7 +467,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 | DarkBASIC Pro ([link](https://www.thegamecreators.com/product/dark-basic-pro-open-source)) | Godot ([link](http://www.godotengine.org/)) | MonoGame ([link](http://www.monogame.net/)) |
 | Xenko ([link](http://xenko.com/)) | HaxeFlixel ([link](http://haxeflixel.com/)) | GDevelop ([link](http://compilgames.net/)) |
 | Superpowers ([link](http://superpowers-html5.com/index.en.html)) | Defold ([link](http://www.defold.com/)) | Urho3D ([link](http://urho3d.github.io/)) |
-| SFML ([link](http://www.sfml-dev.org/)) | Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. ([link](https://github.com/bkaradzic/bgfx)) | Diligent ([link](https://github.com/DiligentGraphics/DiligentEngine)) |
+| SFML ([link](http://www.sfml-dev.org/)) | BGFX, graphics API agnostic ([link](https://github.com/bkaradzic/bgfx)) | Diligent ([link](https://github.com/DiligentGraphics/DiligentEngine)) |
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
