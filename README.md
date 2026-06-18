@@ -255,7 +255,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * About Combat System Design ([link](http://breadcrumbsinteractive.com/about-combat-system-design/)).
 * UX How-To ([youtube](https://www.youtube.com/playlist?list=PLg-UKERBljNy2Yem3RJkYL1V70dpzkysC)).
 * 5 approaches to Crafting Systems in games ([link](http://gamedevelopment.tutsplus.com/articles/5-approaches-to-crafting-systems-in-games-and-where-to-use-them--cms-22628)).
-* Designing game narrative: How to create a great story ([link](http://www.develop-online.net/opinions/designing-game-narrative-how-to-create-a-great-story/0185460)).
 * On making good combat mechanics ([link](http://joesopko.weebly.com/blog/on-making-good-combat-mechanics-part-1)).
 * Extra Credits: game design channel ([youtube](https://www.youtube.com/playlist?list=PLtkJ7uLv7p0JMUNBbtMfh3wrkHKnWeyxd)).
 * How rhythm engages players ([youtube](https://www.youtube.com/watch?v=1z1r5RZFoS0)).
