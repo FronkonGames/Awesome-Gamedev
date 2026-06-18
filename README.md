@@ -1524,6 +1524,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * How to talk about your game so that people will listen ([link](https://impress.games/blog/marketing-for-indies-how-to-talk-about-your-game)).
 * 7 things I learned about Steam in 2024 ([link](https://howtomarketagame.com/2024/12/31/7-things-i-learned-about-steam-in-2024/)).
 * What works for getting Wishlists? ([link](https://www.valadria.com/what-works-for-getting-wishlists/)).
+* Submit your Steam game for a free homepage spotlight on TrendingNow.games ([link](https://trendingnow.games/contact)).
 * Influencer marketing for Indie Games ([youtube](https://www.youtube.com/watch?v=Is1WBM6CE0w)).
 * What makes a great Indie Game Trailer? With Derek Lieu! ([youtube](https://www.youtube.com/watch?v=-tqwqftd1Zk)).
 * Thirteen best practices for setting up your Steam festival page ([link](https://sunnydemeanorgames.com/news/articles/thirteen-best-practices-for-setting-up-your-steam-festival-page)).
