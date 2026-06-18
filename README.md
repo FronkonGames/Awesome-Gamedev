@@ -11,7 +11,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 
 ## Contents
 
-| Production | Engines &amp; Tools | Business | Misc |
+| Development | Engines &amp; Tools | Business | Misc |
 |---|---|---|---|
 | 🎨 [**Art**](#art) | 🟦 [**Unity**](#unity) | 🗂️ [**Organization**](#organization) | 📝 [**Postmortems**](#postmortems) |
 | ✏️ [**Design**](#design) | 💙 [**Unreal**](#unreal) | 📣 [**Marketing**](#marketing) | 🖥️ [**Hardware**](#hardware) |
