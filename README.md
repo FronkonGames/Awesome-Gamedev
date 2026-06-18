@@ -557,7 +557,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Render pipelines desing in C++ ([link](http://www.marti.works/render-pipelines-desing-in-c/)).
 * Anvil, a cross-platform, open-source, MIT-licensed wrapper library for Vulkan ([link](http://gpuopen.com/gaming-product/anvil-vulkan-framework/)).
 * Implementing robust AI: Enemy positioning ([link](http://www.rikodu.com/implementing-robust-ai-for-secondhand-enemy-positioning/)).
-* A study path for game programmer ([link](https://github.com/miloyip/game-programmer)).
 * C++ language quick guide ([link](http://viptechworld.blogspot.com.es/2017/05/cpp-quick-guide-by-vtw.html)).
 * Unit Tests, how to write testable code and why it matters ([link](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)).
 * Top 10 algorithms and data structures for competitive programming ([link](http://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)).
@@ -607,7 +606,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * In depth code analysis ([youtube](https://youtu.be/LleJbZ3FOPU)).
 * Networking in C++ part #1: MMO Client/Server, ASIO & framework basics ([youtube](https://youtu.be/2hNdkYInj4g])).
 * Game Engine Programming 001 ([youtube](https://youtube.com/watch?v=hRL56gXqj-4&list=PLU2nPsAdxKWQYxkmQ3TdbLsyc1l2j25XM)).
-* Computer graphics from scratch ([link](https://www.scratchapixel.com/)).
 * Weeb's guide to programming in Unity ([link](https://docs.google.com/document/d/1eTRYnxrII3b_vce9EytjGA7PU8HCLVjG8qCyW19kqcA)).
 * The definitive FAQ about ECS ([link](https://github.com/SanderMertens/ecs-faq)).
 * Multithreading for game engines ([link](https://vkguide.dev/docs/extra-chapter/multithreading/)).
