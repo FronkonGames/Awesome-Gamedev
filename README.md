@@ -19,6 +19,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 - [**Organization**](#organization)
 - [**Unity**](#unity)
 - [**Unreal**](#unreal)
+- [**Godot**](#godot)
 - [**Engines**](#engines)
 - [**Postmortems**](#postmortems)
 - [**Web**](#web)
@@ -725,7 +726,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Ideal starting point for new Unity projects ([link](https://github.com/SamuelAsherRivello/unity-project-template)).
 * Learn computer graphics from scratch and for free ([link](https://www.scratchapixel.com/)).
 * Getting Started tutorial for DirectX Tool Kit ([link](https://github.com/microsoft/DirectXTK/wiki/Getting-Started)).
-* Mathematics for Computer Science [PDF] ([link](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)).
 * Procedural generation in games: complete guide to PCG techniques & implementation ([link](https://generalistprogrammer.com/procedural-generation-games)).
 * Transforms 101 ([link](https://www.slembcke.net/blog/Transforms/)).
 * Graphics programming resources ([link](https://develop--gpvm-website.netlify.app/resources/)).
@@ -1351,7 +1351,6 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 * Tons of free 16-bit style pixel-art assets ([link](http://ansimuz.com/site/)).
 * Over 2,000 free 3d humanoid animations ([link](https://rancidmilk.itch.io/free-character-animations)).
 * Free AI generated game textures ([link](https://pixela.ai/)).
-* AI skybox generator ([link](https://skybox.blockadelabs.com/)).
 * Free background music (Creative Commons) ([youtube](https://www.youtube.com/watch?v=Ef0VrcrOatg&list=PLsVfn9YIFmNC3SL_FgAe6k4_is4stMOh2)).
 * A mega-list of learning resources for Game Creators ([link](https://github.com/notpresident35/awesome-learn-gamedev)).
 * Indiedev startup stack ([link](https://getwaitlist.com/blog/solo-dev-startup-stack)).
