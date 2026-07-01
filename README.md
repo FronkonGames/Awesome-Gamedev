@@ -421,7 +421,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 | Architecture behind our most popular Unity games ([youtube](https://www.youtube.com/watch?v=-TlQAm8IZp4)) | Automating Unity builds with GitHub Actions ([link](https://dev.to/virtualmaker/automating-unity-builds-with-github-actions-1inf)) | Git tips for collaborative Unity development ([link](https://medium.com/@mateovillagomez1995/git-tips-for-collaborative-unity-development-5f4dde3715f9)) |
 | Unit Testing for Unity Developers ([link](https://dev.to/virtualmaker/unit-testing-for-unity-developers-52lp)) | A set of assets for Unity to authenticate users on different platforms with OAuth 2.0 ([link](https://github.com/hippogamesunity/SimpleSignIn)) | Unity Software Engineering Guide ([link](https://github.com/MfaXyz/Unity-Advanced-Engineering-Guide)) |
 | A troubleshooting website for Unity ([link](https://unity.huh.how/)) | UI Toolkit: build a stylized Main Menu from scratch ([link](https://medium.com/@lukeduckett/begin-mastering-unitys-ui-toolkit-build-a-stylized-main-menu-from-scratch-0ea80ec99af0)) | Set up a Jenkins server to build Unity projects ([link](https://github.com/AnhPham/Build-Unity-Projects-with-Jenkins)) |
-| Simple CI/CD using GitHub Actions ([link](https://github.com/Persomatey/unity-package-ci-cd-system-template)) |  |  |
+| Simple CI/CD using GitHub Actions ([link](https://github.com/Persomatey/unity-package-ci-cd-system-template)) | Unity-MCP, open-source MCP server connecting AI agents (Claude, Cursor, GitHub Copilot, Gemini, and more) to the Unity Editor and runtime, with 100+ built-in tools ([link](https://github.com/IvanMurzak/Unity-MCP)) |  |
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
@@ -443,6 +443,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 | Finite State Machine with GameplayTags for Unreal Engine 4 ([youtube](https://www.youtube.com/watch?v=YSOAKnnS8iw)) | The basics of using the Material Editor in the Unreal Engine 4 ([youtube](https://www.youtube.com/playlist?list=PL78XDi0TS4lFlOVKsNC6LR4sCQhetKJqs)) | Unreal Engine 5, beginner's tutorial with Blueprints ([youtube](https://www.youtube.com/watch?v=xl5fqr-CpTY)) |
 | Exploring Lyra ([youtube](https://www.youtube.com/watch?v=xy2J-KnuzQs)) | Saving / Loading in Unreal Engine 5 ([youtube](https://www.youtube.com/watch?v=YPSgTY9IkIQ)) | Unreal Engine game optimization on a Budget ([youtube](https://www.youtube.com/watch?v=G51QWcitCII)) |
 | C++ or Blueprints: pros and cons, when to use one or the other? ([link](https://medium.com/the-polyglot-programmer/c-or-blueprints-pros-and-cons-when-to-use-one-or-the-other-4cf37853b301)) | HUGE documentation about Unreal Engine and C++ ([link](https://github.com/MrRobinOfficial/Guide-UnrealEngine)) | Unreal Engine performance guide by AMD ([link](https://gpuopen.com/learn/unreal-engine-performance-guide/)) |
+| Unreal-MCP, open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar) ([link](https://github.com/IvanMurzak/Unreal-MCP)) |  |  |
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
@@ -451,7 +452,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 
 | | | |
 |---|---|---|
-| Microsoft's introduction to Godot for C# ([link](https://github.com/microsoft/godot-csharp-essentials)) |  |  |
+| Microsoft's introduction to Godot for C# ([link](https://github.com/microsoft/godot-csharp-essentials)) | Godot-MCP, open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#) ([link](https://github.com/IvanMurzak/Godot-MCP)) |  |
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
@@ -550,7 +551,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 | Kanboard, a free and open source Kanban project management software ([link](https://kanboard.org/)) | PixelEditor 2.0 ([link](https://pixieditor.net)) | A collection of color tools ([link](https://fffuel.co/)) |
 | Crocotile3D, a low poly modelling tool ([link](https://crocotile3d.com/)) | AI Game DevTools ([link](https://github.com/Yuan-ManX/ai-game-devtools)) | LUT Maker, a free to use GPU-accelerated LUT generator in your browser ([link](https://o-l-l-i.github.io/lut-maker/)) |
 | Create AI generated normal, displacement and roughness maps ([link](https://github.com/joeyballentine/Material-Map-Generator)) | Mesh2Motion, a FREE & open-source alternative to Mixamo ([link](https://mesh2motion.org/)) | Tenacity, an easy-to-use, cross-platform multi-track audio editor/recorder ([link](https://tenacityaudio.org/)) |
-| Steam wishlist tool ([link](https://howtomarketagame.com/wishlists/)) |  |  |
+| Steam wishlist tool ([link](https://howtomarketagame.com/wishlists/)) | MCP-Plugin-dotnet, open-source .NET library/SDK that turns any .NET application into an MCP server (stdio/HTTP transport) ([link](https://github.com/IvanMurzak/MCP-Plugin-dotnet)) |  |
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
