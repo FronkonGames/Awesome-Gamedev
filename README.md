@@ -700,6 +700,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 
 | | | |
 |---|---|---|
+| Job board with game industry vacancies taken directly from studio career pages, updated daily ([link](https://lootwork.github.io/)) | | |
 | The Game Developer's Toolbox ([link](http://gamasutra.com/blogs/AnnaJenelius/20160411/269662/The_Game_Developers_Toolbox_for_Students.php)) | Getting a job in the games industry ([link](http://arrowheadgamestudios.com/2016/04/getting-a-job-in-the-games-industry-part-1/)) | Quo Vadis 2016: 100 Gamedev Talks ([vimeo](https://vimeo.com/computec/videos/sort:alphabetical/format:thumbnail)) |
 | Non-Professional game development - The joy of making ([youtube](https://youtu.be/m4p7T9O_tqg)) | Roadmap to becoming a game developer in 2017 ([link](https://github.com/utilForever/game-developer-roadmap)) | Game development: Jumpstart course ([link](https://docs.google.com/document/d/1VRU-E_5hf-DLucBOHl7MaFp2TE0LI5RS8fIDOn0nmc8)) |
 | The cost of doing game dev business ([link](https://medium.com/@morganjaffit/the-cost-of-doing-business-c09cc5cc8728)) | How to stay motivated ([youtube](https://youtu.be/cx2-aN6e69o)) | IP licensing for games ([link](https://gamedevunchained.com/2019/02/04/ip-licensing-for-games-with-jay-powell/)) |
