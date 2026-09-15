@@ -551,6 +551,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 | Crocotile3D, a low poly modelling tool ([link](https://crocotile3d.com/)) | AI Game DevTools ([link](https://github.com/Yuan-ManX/ai-game-devtools)) | LUT Maker, a free to use GPU-accelerated LUT generator in your browser ([link](https://o-l-l-i.github.io/lut-maker/)) |
 | Create AI generated normal, displacement and roughness maps ([link](https://github.com/joeyballentine/Material-Map-Generator)) | Mesh2Motion, a FREE & open-source alternative to Mixamo ([link](https://mesh2motion.org/)) | Tenacity, an easy-to-use, cross-platform multi-track audio editor/recorder ([link](https://tenacityaudio.org/)) |
 | Steam wishlist tool ([link](https://howtomarketagame.com/wishlists/)) |  |  |
+| image-grid-kit, zero-dependency grid splitting and CSS sprite animation helpers ([link](https://github.com/jessica7168295-ux/image-grid-kit)) |  |  |
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
