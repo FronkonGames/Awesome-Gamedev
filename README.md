@@ -518,6 +518,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 |---|---|---|
 | Open Game Art ([link](http://opengameart.org/)) | Free fonts for commercial use ([link](https://www.fontsquirrel.com)) | The list of best free and affordable game graphics resources ([link](http://gamasutra.com/blogs/ArtursSosins/20151028/257619/The_list_of_best_free_and_affordable_game_graphics_resources.php)) |
 | Free sound effects ([link](http://www.freesound.org/)) | Sound effects and loops ([link](http://www.soundsnap.com/)) | Retro sound effect generator ([link](http://www.superflashbros.net/as3sfxr/)) |
+| SFXMint: CC0 game and UI sounds, AI-generated or procedurally synthesized ([link](https://sfxmint.com/)) | | |
 | Buy music ([link](http://bandcamp.com/)) | 10GB+ of high-quality game audio ([link](http://sonniss.com/GameAudioGDC.torrent)) | The big list of sound and music assets ([link](http://www.gamepix.com/blog/the-big-list-of-sound-and-music-assets-for-your-html5-game/)) |
 | Kenny Assets ([link](http://www.kenney.nl/assets)) | TwentyEP ([link](https://soundcloud.com/auditory_cheesecake/sets/twentyep)) | Free Loop Project ([link](http://sleepfacingwest.com/)) |
 | Free icons for your games ([link](http://game-icons.net/)) | Joost's textures ([link](http://joost3d.com/textures/)) | Over 20000 free icons ([link](http://www.icons8.com)) |
