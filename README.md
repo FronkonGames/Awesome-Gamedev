@@ -266,6 +266,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 | GPU Optimization for GameDev ([link](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d)) | On shaping light ([link](https://blog.maximeheckel.com/posts/shaping-light-volumetric-lighting-with-post-processing-and-raymarching/)) | A study path for Game Programmers ([link](https://github.com/miloyip/game-programmer)) |
 | Ideal starting point for new Unity projects ([link](https://github.com/SamuelAsherRivello/unity-project-template)) | Learn computer graphics from scratch and for free ([link](https://www.scratchapixel.com/)) | Getting Started tutorial for DirectX Tool Kit ([link](https://github.com/microsoft/DirectXTK/wiki/Getting-Started)) |
 | Procedural generation in games: complete guide to PCG techniques & implementation ([link](https://generalistprogrammer.com/procedural-generation-games)) | Transforms 101 ([link](https://www.slembcke.net/blog/Transforms/)) | Graphics programming resources ([link](https://develop--gpvm-website.netlify.app/resources/)) |
+| Minecraft Java first mod: Copper Token (NeoForge 1.21.1) ([link](https://universalmodder.dev/guides/minecraft-first-mod/)) | | |
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
