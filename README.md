@@ -650,6 +650,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
+| How mobile games sell in-app purchases outside the app store, country by country ([link](https://appside.build/sell-in-app-purchases-outside-the-app-store/)) | | |
 
 ## **Localization**
 
