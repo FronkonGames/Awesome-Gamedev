@@ -559,7 +559,8 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 
 | | | |
 |---|---|---|
-| mention.com ([link](https://mention.com)) | Game developer Mastodon how to guide ([link](https://medium.com/@steamgirlgame/game-dev-mastodon-how-to-guide-2beb40118021)) |  |
+| mention.com ([link](https://mention.com)) | Game developer Mastodon how to guide ([link](https://medium.com/@steamgirlgame/game-dev-mastodon-how-to-guide-2beb40118021)) |  
+| IndieGuild, find artists, composers and more for your indie game ([link](https://indieguild.dev)) |
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
