@@ -534,6 +534,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 | Free Motion Capture for everyone ([link](https://freemocap.org)) | Set of nice spinners for imgui ([link](https://github.com/dalerank/imspinner)) | Open source alternatives to popular software ([link](https://openalternative.co/)) |
 | Big collection of clean CC0 models ([link](https://www.thebasemesh.com/)) | An open music encyclopedia ([link](https://musicbrainz.org/)) | 50+ packs with 1000's of sounds, free to download and use CC0 ([link](https://signaturesounds.org/)) |
 | Open source icons ([link](https://icon-sets.iconify.design/)) | Online procedural tree generator ([link](https://www.eztree.dev/)) | A curated collection of free and paid 3D resources ([link](https://github.com/devanshutak25/3d-resources)) |
+| Free CC0 animated 2D character sprite sheets with JSON atlases ([link](https://spritecanvas.com/free-sprite-sheets/)) | | |
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
