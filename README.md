@@ -550,7 +550,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 | Kanboard, a free and open source Kanban project management software ([link](https://kanboard.org/)) | PixelEditor 2.0 ([link](https://pixieditor.net)) | A collection of color tools ([link](https://fffuel.co/)) |
 | Crocotile3D, a low poly modelling tool ([link](https://crocotile3d.com/)) | AI Game DevTools ([link](https://github.com/Yuan-ManX/ai-game-devtools)) | LUT Maker, a free to use GPU-accelerated LUT generator in your browser ([link](https://o-l-l-i.github.io/lut-maker/)) |
 | Create AI generated normal, displacement and roughness maps ([link](https://github.com/joeyballentine/Material-Map-Generator)) | Mesh2Motion, a FREE & open-source alternative to Mixamo ([link](https://mesh2motion.org/)) | Tenacity, an easy-to-use, cross-platform multi-track audio editor/recorder ([link](https://tenacityaudio.org/)) |
-| Steam wishlist tool ([link](https://howtomarketagame.com/wishlists/)) |  |  |
+| Steam wishlist tool ([link](https://howtomarketagame.com/wishlists/)) | ASCII Images, a free browser image-to-text converter for character-art prototypes ([link](https://ascii-images.com/image-to-ascii)) |  |
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
