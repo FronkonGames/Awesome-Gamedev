@@ -647,6 +647,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 | The MOST comprehensive list of indiegame publishers ([link](https://docs.google.com/spreadsheets/d/15AN1I1mB67AJkpMuUUfM5ZUALkQmrvrznnPYO5QbqD0)) | How to create an official developer Steam page ([link](https://piratepr.com/treasure-trove/how-to-create-an-official-developer-steam-page-and-why-you-should/)) | A guide to conquering Asia ([link](https://medium.com/@kkll7952/independent-game-developer-a-guide-to-conquering-asia-02ca7b0b1df1)) |
 | The most underrated way to sell indie games ([youtube](https://www.youtube.com/watch?v=x-YHsSvO_lU)) | Tips on Pitching your indie game to Publishers ([link](https://80.lv/articles/tips-on-pitching-your-indie-game-to-publishers)) | Making money making games ([link](https://playtank.io/2025/05/12/making-money-making-games/)) |
 | Market insights calculator ([link](https://www.guardingpearsoftware.com/calculator/market)) | A Node-Based Forecast tool for game developers ([link](https://gameforecast.app/)) |  |
+| WHETHER: free game pitch deck review and publisher matching ([link](https://www.whether.games/)) | Steam revenue and break-even calculator for indie studios ([link](https://www.whether.games/tools/steam-revenue-calculator)) |  |
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
