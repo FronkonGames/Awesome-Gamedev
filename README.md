@@ -646,7 +646,7 @@ Maintained by [Fronkon Games](https://github.com/FronkonGames).
 | Steam Q&A summaries ([link](https://steamcommunity.com/groups/steamworks/announcements/detail/4191238396458987548)) | 9 things I learned pitching my game to publishers ([link](https://www.valadria.com/9-things-i-learned-pitching-my-game-to-publishers/)) | Key terminology in Game Publishing ([link](https://medium.com/@klaothongchan/key-terminology-in-game-publishing-141740fb76b8)) |
 | The MOST comprehensive list of indiegame publishers ([link](https://docs.google.com/spreadsheets/d/15AN1I1mB67AJkpMuUUfM5ZUALkQmrvrznnPYO5QbqD0)) | How to create an official developer Steam page ([link](https://piratepr.com/treasure-trove/how-to-create-an-official-developer-steam-page-and-why-you-should/)) | A guide to conquering Asia ([link](https://medium.com/@kkll7952/independent-game-developer-a-guide-to-conquering-asia-02ca7b0b1df1)) |
 | The most underrated way to sell indie games ([youtube](https://www.youtube.com/watch?v=x-YHsSvO_lU)) | Tips on Pitching your indie game to Publishers ([link](https://80.lv/articles/tips-on-pitching-your-indie-game-to-publishers)) | Making money making games ([link](https://playtank.io/2025/05/12/making-money-making-games/)) |
-| Market insights calculator ([link](https://www.guardingpearsoftware.com/calculator/market)) | A Node-Based Forecast tool for game developers ([link](https://gameforecast.app/)) |  |
+| Market insights calculator ([link](https://www.guardingpearsoftware.com/calculator/market)) | A Node-Based Forecast tool for game developers ([link](https://gameforecast.app/)) | GamerScroll, free App Store, Google Play, and Steam game charts saved every day ([link](https://gamerscroll.com/)) |
 
 **[⬆ back to top ⬆](#Contents)**
 <br>
